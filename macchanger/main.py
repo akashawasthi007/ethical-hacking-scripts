@@ -7,4 +7,4 @@ if __name__=="__main__":
 
     current_mac=mc.change_mac("wlan0","00:22:54:66:87:99")
     print(current_mac)
-#for fun
+
