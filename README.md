@@ -3,4 +3,4 @@ some basic python scripts used in the field of ethical hacking or penetration te
 prerquisites:
 python3
 for execution:
-python3 main.py
+python3 main.py  or  python2 <filename>.py
